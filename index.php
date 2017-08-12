@@ -26,7 +26,7 @@
           <h3><div class="sect-bg">About Me</div></h3>
           <div id="1-content">
             <ul>
-              <li>I'm an 11th grader at the NYC iSchool</li>
+              <li>I'm a 12th grader at the NYC iSchool</li>
               <li>I'm a programmer. I know:</li>
                 <div id="spacer"></div>
                 <ul>
